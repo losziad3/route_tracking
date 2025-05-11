@@ -17,3 +17,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+// Create text field
+// Listen to text field
+// Search place
+// Display results
